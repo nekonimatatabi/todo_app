@@ -1,0 +1,7 @@
+Todo 機能を追加
+
+- todos テーブルのマイグレーションと Todo モデル、TodoFactory を追加
+- User に todos() リレーションを追加
+- Todo の一覧・登録・編集ページ（Livewire）を追加
+- /todos のルートとヘッダーのナビゲーションを追加
+- シーダーでテスト太郎と Todo 5件を投入
